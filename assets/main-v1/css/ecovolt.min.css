@@ -1818,7 +1818,7 @@ textarea.w-select {
   --white: white;
   --ddddd: #ddd;
   --black: black;
-  --sommers-red: #689f38;
+  --ecovolt-green: #689f38;
   --green: #8dc63f;
   --dark-grey: #535353;
   --simpliphi-green: #c8102e;
@@ -2881,7 +2881,7 @@ a {
   inset: 0% 0% auto;
 }
 .slider_banner {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 0 0 20px 20px;
   justify-content: center;
   margin-left: 10%;
@@ -2907,12 +2907,12 @@ a {
   padding-top: 10px;
 }
 .button-2 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   background-color: #fff;
   border-radius: 20px;
 }
 .button-3 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   background-color: #f7f7f7;
   border-radius: 20px;
 }
@@ -2960,7 +2960,7 @@ a {
   padding-bottom: 0;
 }
 .heading {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   text-align: center;
   margin-top: -22px;
   padding-top: 40px;
@@ -2970,7 +2970,7 @@ a {
   font-weight: 400;
 }
 .heading-3 {
-  border-top: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
   color: #000;
   text-align: center;
   padding-top: 0;
@@ -2998,7 +2998,7 @@ a {
   padding-bottom: 0;
 }
 .text-block-3 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   text-align: center;
   border-radius: 20px;
@@ -3483,7 +3483,7 @@ a {
   overflow: hidden;
 }
 .info-cards-image {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   text-align: center;
   margin-top: 20px;
   margin-left: auto;
@@ -3620,7 +3620,7 @@ a {
   font-size: 14px;
 }
 .heading-19 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   text-align: center;
 }
 .paragraph-11 {
@@ -3706,7 +3706,7 @@ a {
   margin-right: 10%;
 }
 .button-4 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   border-radius: 20px;
   align-items: stretch;
@@ -3748,13 +3748,13 @@ a {
 }
 .tab-link-tab-1,
 .tab-link-tab-2 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   border-radius: 20px;
   margin-right: 10px;
 }
 .tab-link-tab-3 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   border-radius: 20px;
 }
@@ -3870,7 +3870,7 @@ a {
   margin-left: 0;
 }
 .submit-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
   margin-left: 10px;
   margin-right: 10px;
@@ -3896,7 +3896,7 @@ a {
   overflow: visible;
 }
 .search-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
   align-self: flex-start;
   margin-left: 10px;
@@ -3940,7 +3940,7 @@ a {
   display: none;
 }
 .search-button-2 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
 }
 .section-9 {
@@ -3976,7 +3976,7 @@ a {
   border-radius: 20px;
 }
 .button-5 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   border-radius: 20px;
   margin-left: 100px;
@@ -3990,7 +3990,7 @@ a {
   display: inline-block;
 }
 .button-6 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: left;
   border-radius: 20px;
   justify-content: center;
@@ -4034,7 +4034,7 @@ a {
   margin-top: 20px;
 }
 .button-7 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
   margin-left: 100px;
   margin-right: 100px;
@@ -4105,8 +4105,8 @@ a {
 .container-11 {
   flex: 1;
 }
-.sommers-standard-button {
-  background-color: var(--sommers-red);
+.ecovolt-standard-button {
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -4149,7 +4149,7 @@ a {
   box-shadow: 1px 1px 3px #000;
 }
 .service-card-div-block:hover {
-  box-shadow: 1px 1px 3px 0 var(--sommers-red);
+  box-shadow: 1px 1px 3px 0 var(--ecovolt-green);
 }
 .service-quote-button {
   background-color: var(--black);
@@ -4162,7 +4162,7 @@ a {
   display: inline-block;
 }
 .heading-30 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   text-align: center;
   margin-top: 40px;
   margin-bottom: 40px;
@@ -4255,7 +4255,7 @@ a {
   margin-right: 10%;
 }
 .div-block-24 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   width: 100%;
   height: 4px;
   margin-top: 0;
@@ -4361,9 +4361,9 @@ a {
   margin-top: 0%;
 }
 .residential-generator-button {
-  border: 1px none var(--sommers-red);
+  border: 1px none var(--ecovolt-green);
   background-color: var(--white);
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   text-align: left;
   border-radius: 20px;
   flex-direction: column;
@@ -4375,9 +4375,9 @@ a {
   display: flex;
 }
 .generator-sets-collection-button {
-  border: 1px solid var(--sommers-red);
+  border: 1px solid var(--ecovolt-green);
   background-color: var(--white);
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   text-align: left;
   border-radius: 20px;
   flex-direction: row;
@@ -4387,10 +4387,10 @@ a {
   display: flex;
 }
 .generator-sets-collection-button:hover {
-  box-shadow: 2px 2px 3px 0 var(--sommers-red);
+  box-shadow: 2px 2px 3px 0 var(--ecovolt-green);
 }
 .diesel-generator-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: var(--white);
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -4402,9 +4402,9 @@ a {
   font-weight: 400;
 }
 .ngp-button {
-  border: 1px solid var(--sommers-red);
+  border: 1px solid var(--ecovolt-green);
   background-color: var(--white);
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   border-radius: 20px;
   margin: 10px;
 }
@@ -4462,7 +4462,7 @@ a {
 .how-it-works---rental-section {
   border-style: solid none none;
   border-width: 3px 0 0;
-  border-color: var(--sommers-red) transparent transparent;
+  border-color: var(--ecovolt-green) transparent transparent;
   background-color: #0000;
   border-radius: 0;
   flex-direction: column;
@@ -4747,7 +4747,7 @@ a {
   font-size: 12px;
 }
 .text-span-2 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .paragraph-22,
 .paragraph-23 {
@@ -5308,7 +5308,7 @@ a {
   margin-bottom: 18px;
 }
 .team-block-info {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   border-left: 3px solid #c8102f;
   flex-direction: column;
   align-items: flex-start;
@@ -5627,7 +5627,7 @@ a {
 }
 .button-10 {
   clear: none;
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -5656,7 +5656,7 @@ a {
   position: relative;
 }
 .button-primary-3 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   text-align: center;
   letter-spacing: 2px;
@@ -5926,7 +5926,7 @@ a {
 .hero-heading-right {
   border-style: none none solid;
   border-width: 3px;
-  border-color: var(--sommers-red);
+  border-color: var(--ecovolt-green);
   text-align: center;
   background-color: #0000;
   margin-top: 40px;
@@ -5934,7 +5934,7 @@ a {
   position: relative;
 }
 .button-primary-4 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -5988,8 +5988,8 @@ a {
   box-shadow: 0 4px 24px #96a3b514;
 }
 .margin-bottom-24px-2 {
-  border-top: 5px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 5px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   letter-spacing: 0;
   text-indent: 0;
   white-space: normal;
@@ -6002,7 +6002,7 @@ a {
   overflow: visible;
 }
 .button-primary-5 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6029,8 +6029,8 @@ a {
   position: relative;
 }
 .hero-wrapper-two-2 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   text-align: center;
   flex-direction: column;
   justify-content: flex-start;
@@ -6044,7 +6044,7 @@ a {
   display: flex;
 }
 .button-primary-6 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6113,7 +6113,7 @@ a {
   position: relative;
 }
 .button-primary8 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6155,7 +6155,7 @@ a {
   margin-right: -48px;
 }
 .button-primary-8 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6280,7 +6280,7 @@ a {
   font-weight: 700;
 }
 .hero-heading-right-3 {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   background-color: #0000;
   padding: 0 0 80px 30px;
   position: relative;
@@ -6296,7 +6296,7 @@ a {
   padding-right: 0;
 }
 .heading-80 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .dropdown-toggle-3,
 .dropdown-toggle-4 {
@@ -6403,7 +6403,7 @@ a {
   display: flex;
 }
 .careers---apply-now {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   border-radius: 20px;
   margin: 20px 220px 60px;
@@ -6442,7 +6442,7 @@ a {
   text-decoration: none;
 }
 .bold-text {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .text-block-15 {
   color: var(--black);
@@ -6491,7 +6491,7 @@ a {
   padding-bottom: 40px;
 }
 .heading-87 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   color: var(--black);
   text-align: center;
   margin-top: 0;
@@ -6570,8 +6570,8 @@ a {
   list-style-type: disc;
 }
 .hero-subscribe-left {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   background-color: #0000;
   margin-top: 0;
   padding: 60px 30px;
@@ -6583,7 +6583,7 @@ a {
   margin: 0 auto;
 }
 .hero-wrapper-2 {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   justify-content: space-between;
   align-items: center;
   margin-top: 0;
@@ -6659,14 +6659,14 @@ a {
   box-shadow: 0 4px 24px #96a3b514;
 }
 .hero-subscribe-right {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   background-color: #0000;
   padding: 60px 30px;
   position: relative;
 }
 .button-primary-10 {
   border: 0px none var(--black);
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6702,8 +6702,8 @@ a {
   display: flex;
 }
 .hero-heading-right-4 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   background-color: #0000;
   margin-bottom: 60px;
   padding: 40px 30px 0;
@@ -6747,7 +6747,7 @@ a {
 .hero-heading-left-2 {
   border-style: solid none none;
   border-width: 3px 0 0;
-  border-color: var(--sommers-red) transparent transparent;
+  border-color: var(--ecovolt-green) transparent transparent;
   background-color: #0000;
   margin-top: 0;
   margin-bottom: 0;
@@ -6774,7 +6774,7 @@ a {
   font-size: 38px;
 }
 .heading-97 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   margin-top: 60px;
   margin-bottom: 10px;
   margin-right: 0;
@@ -6836,7 +6836,7 @@ a {
   margin-top: 0;
 }
 .hero-without-image-7 {
-  border-top: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
   background-color: #0000;
   border-bottom: 1px #e4ebf3;
   border-radius: 0;
@@ -6845,8 +6845,8 @@ a {
   position: relative;
 }
 .hero-wrapper-two-4 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   text-align: center;
   flex-direction: column;
   justify-content: flex-start;
@@ -6858,7 +6858,7 @@ a {
   display: flex;
 }
 .button-primary-12 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6877,7 +6877,7 @@ a {
   background-color: #43464d;
 }
 .call-now {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: var(--white);
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6911,7 +6911,7 @@ a {
   display: flex;
 }
 .button-book-your-appt {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -6929,7 +6929,7 @@ a {
   padding-right: 10px;
 }
 .button-maintenance3 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -6949,7 +6949,7 @@ a {
   font-weight: 400;
 }
 .rental-inquiry-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -6976,7 +6976,7 @@ a {
   margin-bottom: 20px;
 }
 .home-page-button-get-started {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -6991,7 +6991,7 @@ a {
   margin-right: -51px;
 }
 .home-page-residential {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7006,7 +7006,7 @@ a {
   position: relative;
 }
 .home-page-commercial {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7023,8 +7023,8 @@ a {
   position: relative;
 }
 .hero-wrapper-two-5 {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   text-align: center;
   flex-direction: column;
   justify-content: flex-start;
@@ -7044,7 +7044,7 @@ a {
   position: relative;
 }
 .button-primary-13 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -7064,7 +7064,7 @@ a {
   background-color: #43464d;
 }
 .home-page-button-technical-support {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7128,7 +7128,7 @@ a {
   margin-top: 40px;
 }
 .about-us-heading2 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   margin-top: 40px;
   margin-bottom: 20px;
 }
@@ -7142,7 +7142,7 @@ a {
   font-size: 38px;
   line-height: 44px;
 }
-.button-why-buy-sommers {
+.button-why-buy-ecovolt {
   background-color: var(--black);
   color: var(--white);
   letter-spacing: 2px;
@@ -7206,7 +7206,7 @@ a {
   font-size: 12px;
 }
 .commercial-button-get-started {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7246,8 +7246,8 @@ a {
   margin-right: 0;
   font-size: 16px;
 }
-.about-sommers-button {
-  background-color: var(--sommers-red);
+.about-ecovolt-button {
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7266,7 +7266,7 @@ a {
   margin-top: 0;
 }
 .location-heading {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .text-location-bracebridge {
   margin-right: -48px;
@@ -7285,7 +7285,7 @@ a {
 .home-page-button-about-us {
   float: none;
   clear: none;
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -7310,7 +7310,7 @@ a {
   font-weight: 700;
 }
 .home-page-button-contact-us {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7319,7 +7319,7 @@ a {
   padding: 20px 40px;
 }
 .button-follow-us-ig {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7340,7 +7340,7 @@ a {
   font-weight: 700;
 }
 .button-primary-14 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -7359,12 +7359,12 @@ a {
   background-color: #43464d;
 }
 .container-22 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   margin-bottom: 0;
   padding-top: 60px;
 }
 .request-a-quote-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -7378,14 +7378,14 @@ a {
   padding: 80px 30px;
   position: relative;
 }
-.the-sommers-difference-paragraph {
+.the-ecovolt-difference-paragraph {
   margin-bottom: 0;
   padding-top: 10px;
 }
 .block-quote-2 {
   border-style: none none solid;
   border-width: 1px 1px 3px;
-  border-color: black black var(--sommers-red);
+  border-color: black black var(--ecovolt-green);
   border-radius: 0;
   margin-top: 0;
   margin-bottom: 0;
@@ -7413,7 +7413,7 @@ a {
   font-weight: 700;
 }
 .container-23 {
-  border: 3px solid var(--sommers-red);
+  border: 3px solid var(--ecovolt-green);
   border-radius: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -7429,14 +7429,14 @@ a {
   margin-bottom: 20px;
 }
 .heading-114 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .div-block-49 {
   margin-left: -100px;
   margin-right: 20px;
 }
 .heading-115 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .div-block-50 {
   margin-left: -54px;
@@ -7444,7 +7444,7 @@ a {
   padding-left: 0;
 }
 .heading-116 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .div-block-51 {
   margin-left: -48px;
@@ -7490,7 +7490,7 @@ a {
   padding-left: 10px;
 }
 .button-17 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7521,7 +7521,7 @@ a {
   margin-left: 25px;
 }
 .careers-button---main-app {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
   margin-top: 40px;
   margin-bottom: 20px;
@@ -7531,64 +7531,64 @@ a {
   text-align: center;
 }
 .hero-wrapper-ig {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   text-align: center;
   margin-top: 0;
   padding-top: 60px;
   padding-bottom: 0;
 }
-.hero-wrapper-why-choose-sommers {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+.hero-wrapper-why-choose-ecovolt {
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   text-align: center;
   padding-top: 40px;
   padding-bottom: 0;
 }
 .div-block-52 {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
 }
 .hero-wrapper-sales {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   text-align: center;
   margin-top: 0;
   padding-top: 40px;
   padding-bottom: 40px;
 }
 .hero-wrapper-service {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   text-align: center;
   margin-top: 0;
   padding-top: 60px;
   padding-bottom: 60px;
 }
 .container-25 {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   margin-top: 0;
   margin-bottom: 40px;
   padding-top: 40px;
 }
 .container-simpliphi {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   padding-top: 60px;
   padding-bottom: 60px;
 }
 .container-26 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   padding-top: 60px;
   padding-bottom: 60px;
 }
 .container-industrial {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   margin-bottom: 40px;
   padding-top: 40px;
   padding-bottom: 0;
@@ -7626,8 +7626,8 @@ a {
   font-size: 38px;
 }
 .container-27 {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   text-align: center;
   margin-top: 0;
   margin-bottom: 40px;
@@ -7636,8 +7636,8 @@ a {
   padding-left: 0;
 }
 .container-emergency-service {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -7674,7 +7674,7 @@ a {
   margin-right: auto;
 }
 .hero-wrapper-3 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   justify-content: space-between;
   align-items: center;
   margin-top: 60px;
@@ -7696,7 +7696,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-15 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   text-align: center;
   letter-spacing: 2px;
@@ -7716,7 +7716,7 @@ a {
   background-color: #43464d;
 }
 .rentals-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -7741,9 +7741,9 @@ a {
   display: flex;
 }
 .block-quote-3 {
-  border-right: 5px solid var(--sommers-red);
+  border-right: 5px solid var(--ecovolt-green);
   border-left-style: none;
-  border-left-color: var(--sommers-red);
+  border-left-color: var(--ecovolt-green);
   color: var(--black);
   letter-spacing: 2px;
   text-transform: none;
@@ -7756,8 +7756,8 @@ a {
   margin-top: 40px;
 }
 .block-quote-homepage1 {
-  border-bottom: 3px none var(--sommers-red);
-  border-left-color: var(--sommers-red);
+  border-bottom: 3px none var(--ecovolt-green);
+  border-left-color: var(--ecovolt-green);
   color: var(--black);
   text-align: left;
   letter-spacing: 2px;
@@ -7767,7 +7767,7 @@ a {
   padding-left: 40px;
 }
 .careers---engineer-apply-now-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   border-radius: 20px;
   margin-top: 20px;
   padding: 10px 100px;
@@ -7786,16 +7786,16 @@ a {
   padding-top: 0;
 }
 .urgent-service-contact-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
   padding: 15px 25px;
 }
 .block-quote-5 {
-  border-right: 5px none var(--sommers-red);
+  border-right: 5px none var(--ecovolt-green);
   border-left-style: none;
-  border-left-color: var(--sommers-red);
+  border-left-color: var(--ecovolt-green);
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -7809,7 +7809,7 @@ a {
   font-size: 16px;
 }
 .submit-button-2 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -7948,7 +7948,7 @@ a {
   margin-right: auto;
 }
 .clients-wrapper-three {
-  border-top: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
@@ -7962,8 +7962,8 @@ a {
   padding-top: 10px;
 }
 .hero-heading-left-6 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   background-color: #0000;
   margin-top: 0;
   padding: 40px 0 80px;
@@ -8065,13 +8065,13 @@ a {
   overflow: auto;
 }
 .logos-quote-divider {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   padding: 60px 30px 10px;
   position: relative;
 }
 .container-33 {
-  border-bottom: 3px none var(--sommers-red);
+  border-bottom: 3px none var(--ecovolt-green);
   width: 100%;
   max-width: 940px;
   margin-top: 0;
@@ -8095,7 +8095,7 @@ a {
   display: flex;
 }
 .clients-quote-two {
-  border-bottom: 1px solid var(--sommers-red);
+  border-bottom: 1px solid var(--ecovolt-green);
   margin-top: 10px;
   margin-bottom: 20px;
   padding-bottom: 10px;
@@ -8204,21 +8204,21 @@ a {
 .hero-without-image-16 {
   border-style: none none solid;
   border-width: 3px;
-  border-color: var(--sommers-red);
+  border-color: var(--ecovolt-green);
   background-color: #0000;
   margin-bottom: 0;
   padding: 0 30px;
   position: relative;
 }
 .container-34 {
-  border-bottom: 3px none var(--sommers-red);
+  border-bottom: 3px none var(--ecovolt-green);
   width: 100%;
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
 }
 .hero-wrapper-two-8 {
-  border-bottom: 3px none var(--sommers-red);
+  border-bottom: 3px none var(--ecovolt-green);
   text-align: center;
   flex-direction: column;
   justify-content: flex-start;
@@ -8233,7 +8233,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-19 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -8256,8 +8256,8 @@ a {
   font-size: 38px;
 }
 .hero-heading-right-8 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   background-color: #0000;
   margin-top: 0;
   padding: 20px 30px 60px;
@@ -8291,7 +8291,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-20 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -8345,7 +8345,7 @@ a {
   margin-top: 20px;
 }
 .button-18 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   object-fit: contain;
@@ -8510,7 +8510,7 @@ a {
   margin-left: 120px;
 }
 .button-primary-21 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -8786,7 +8786,7 @@ a {
   line-height: 46px;
 }
 .heading-132 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   margin-right: -38px;
   padding-right: 0;
   font-size: 36px;
@@ -8863,14 +8863,14 @@ a {
   padding: 80px 30px;
 }
 .button-find-out-more {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 6px;
   padding: 12px 25px;
 }
 .button-19 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 15px 25px;
@@ -8914,7 +8914,7 @@ a {
 }
 .button-primary-22 {
   background-color: var(--white);
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 6px;
@@ -8956,7 +8956,7 @@ a {
   font-size: 14px;
 }
 .button-20 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-left: 20px;
@@ -8964,7 +8964,7 @@ a {
   padding: 15px 25px;
 }
 .udesly-button-navigation {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9198,7 +9198,7 @@ a {
   display: flex;
 }
 .button-21 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -9222,7 +9222,7 @@ a {
 .hero-heading-left-8 {
   border-style: none none solid;
   border-width: 3px;
-  border-color: var(--sommers-red);
+  border-color: var(--ecovolt-green);
   background-color: #0000;
   padding: 60px 30px;
   position: relative;
@@ -9250,7 +9250,7 @@ a {
   font-size: 16px;
 }
 .button-primary-23 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9301,7 +9301,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-24 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9343,7 +9343,7 @@ a {
   display: flex;
 }
 .button-primary-25 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9374,7 +9374,7 @@ a {
   position: relative;
 }
 .button-primary-26 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9397,7 +9397,7 @@ a {
   margin-right: 220px;
 }
 .button-22 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9426,7 +9426,7 @@ a {
 }
 .heading-140 {
   background-color: var(--white);
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   border-radius: 0;
   margin-bottom: 20px;
   padding: 20px;
@@ -9456,7 +9456,7 @@ a {
   margin-right: auto;
 }
 .hero-without-image-19 {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   background-color: #0000;
   padding: 10px 30px 60px;
   position: relative;
@@ -9489,7 +9489,7 @@ a {
   line-height: 24px;
 }
 .button-primary-27 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9553,8 +9553,8 @@ a {
   line-height: 28px;
 }
 .button-primary-28 {
-  border: 1px none var(--sommers-red);
-  background-color: var(--sommers-red);
+  border: 1px none var(--ecovolt-green);
+  background-color: var(--ecovolt-green);
   opacity: 1;
   color: #fff;
   letter-spacing: 2px;
@@ -9607,7 +9607,7 @@ a {
   background-color: #43464d;
 }
 .button-about-us {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -9671,8 +9671,8 @@ a {
   background-color: #43464d;
 }
 .submit-button-3 {
-  border: 1px none var(--sommers-red);
-  background-color: var(--sommers-red);
+  border: 1px none var(--ecovolt-green);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 6px;
@@ -9715,7 +9715,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-31 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9767,7 +9767,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-32 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9788,8 +9788,8 @@ a {
   margin-bottom: 20px;
 }
 .hero-without-image-25 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   background-color: #0000;
   padding: 80px 30px;
   position: relative;
@@ -9831,7 +9831,7 @@ a {
   background-color: #43464d;
 }
 .residential-transfer-switch-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -9846,7 +9846,7 @@ a {
   font-size: 20px;
 }
 .bold-text-9 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .text-block-23 {
   margin-top: 40px;
@@ -9858,15 +9858,15 @@ a {
   font-size: 20px;
 }
 .bold-text-11 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   font-size: 20px;
 }
 .heading-147 {
   text-align: center;
 }
 .hero-without-image-26 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   background-color: #0000;
   margin-top: 0;
   padding: 60px 30px;
@@ -9894,7 +9894,7 @@ a {
   line-height: 30px;
 }
 .button-primary-34 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9951,7 +9951,7 @@ a {
   line-height: 28px;
 }
 .button-primary-35 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -9977,7 +9977,7 @@ a {
   margin-top: 0;
 }
 .container-50 {
-  border-top: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
   margin-top: 0;
   margin-bottom: 60px;
   padding-top: 0;
@@ -9992,14 +9992,14 @@ a {
   line-height: 42px;
 }
 .button-23 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-top: 20px;
   padding: 15px 25px;
 }
 .pennecon-email-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-top: 10px;
@@ -10009,14 +10009,14 @@ a {
 .email-sales,
 .email-muskoka,
 .button-24 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-top: 20px;
   padding: 15px 25px;
 }
 .button-25 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 15px 25px;
@@ -10046,7 +10046,7 @@ a {
   margin-top: 40px;
 }
 .parts-ordering-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10091,7 +10091,7 @@ a {
   line-height: 24px;
 }
 .button-primary-36 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   text-align: center;
   letter-spacing: 2px;
@@ -10120,8 +10120,8 @@ a {
   padding-left: 10px;
 }
 .container---peak-shaving {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   margin-top: 60px;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -10138,7 +10138,7 @@ a {
   margin-right: 25%;
 }
 .container---global-adjustment {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   margin-top: 60px;
   padding-top: 60px;
 }
@@ -10209,7 +10209,7 @@ a {
   line-height: 34px;
 }
 .peak-shaving-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10221,7 +10221,7 @@ a {
   margin-bottom: 60px;
 }
 .button-26 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: left;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10250,7 +10250,7 @@ a {
   display: flex;
 }
 .button-primary-37 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10322,7 +10322,7 @@ a {
   font-size: 24px;
 }
 .heading-166 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   margin-top: 0;
   font-size: 32px;
 }
@@ -10353,7 +10353,7 @@ a {
   text-decoration: underline;
 }
 .submit-button-4 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10370,7 +10370,7 @@ a {
   margin-right: 10%;
 }
 .submit-button-5 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10379,7 +10379,7 @@ a {
   padding: 15px 25px;
 }
 .submit-button-6 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10394,8 +10394,8 @@ a {
   margin-bottom: 40px;
 }
 .hero-heading-right-13 {
-  border-top: 3px none var(--sommers-red);
-  border-bottom: 3px none var(--sommers-red);
+  border-top: 3px none var(--ecovolt-green);
+  border-bottom: 3px none var(--ecovolt-green);
   background-color: #0000;
   padding: 60px 30px;
   position: relative;
@@ -10419,14 +10419,14 @@ a {
   display: flex;
 }
 .shadow-two-13 {
-  border: 6px solid var(--sommers-red);
+  border: 6px solid var(--ecovolt-green);
   box-shadow: 0 4px 24px #96a3b514;
 }
 .margin-bottom-24px-28 {
   margin-bottom: 24px;
 }
 .button-primary-38 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10444,7 +10444,7 @@ a {
   background-color: #43464d;
 }
 .submit-button-7 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10452,7 +10452,7 @@ a {
   padding: 15px 40px;
 }
 .submit-button-8 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10480,7 +10480,7 @@ a {
 .button-28 {
   float: none;
   clear: none;
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10496,8 +10496,8 @@ a {
   position: static;
 }
 .section-28 {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   margin-left: 25%;
   margin-right: 20%;
   padding-top: 40px;
@@ -10511,7 +10511,7 @@ a {
   margin-right: 20%;
 }
 .submit-button-9 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10531,7 +10531,7 @@ a {
   text-align: center;
 }
 .button-29 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10636,11 +10636,11 @@ a {
   max-width: 75%;
 }
 .image-51 {
-  border-bottom: 3px none var(--sommers-red);
+  border-bottom: 3px none var(--ecovolt-green);
   padding-bottom: 40px;
 }
 .button-30 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: var(--white);
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10650,7 +10650,7 @@ a {
   font-size: 16px;
 }
 .container-62 {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   padding-top: 20px;
   padding-bottom: 40px;
 }
@@ -10658,7 +10658,7 @@ a {
   font-style: italic;
 }
 .hero-heading-left-10 {
-  border-bottom: 3px none var(--sommers-red);
+  border-bottom: 3px none var(--ecovolt-green);
   background-color: #0000;
   padding: 80px 30px;
   position: relative;
@@ -10687,7 +10687,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-39 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10728,7 +10728,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-40 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10803,7 +10803,7 @@ a {
   margin-right: 50px;
 }
 .portable-hero-2 {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   padding-bottom: 60px;
 }
 .heading-172 {
@@ -10832,7 +10832,7 @@ a {
   line-height: 32px;
 }
 .button-31 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10850,8 +10850,8 @@ a {
   max-width: 100%;
 }
 .hero-wrapper-emergency {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   text-align: center;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -10864,7 +10864,7 @@ a {
   font-size: 36px;
 }
 .button-32 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10879,7 +10879,7 @@ a {
   margin-top: 60px;
 }
 .button-33 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10888,7 +10888,7 @@ a {
   padding: 15px 25px;
 }
 .button-34 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10898,7 +10898,7 @@ a {
   padding: 15px 25px;
 }
 .button-35 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -10953,7 +10953,7 @@ a {
   text-align: left;
 }
 .button-36 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -10964,7 +10964,7 @@ a {
   margin-top: 40px;
 }
 .button-37 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -11009,7 +11009,7 @@ a {
   margin-bottom: 24px;
 }
 .button-primary-41 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -11036,10 +11036,10 @@ a {
   color: var(--black);
 }
 .bold-text-16 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
 }
 .submit-button-10 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -11054,7 +11054,7 @@ a {
   margin-top: 0;
 }
 .email-kingston-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -11079,7 +11079,7 @@ a {
   padding-right: 0;
 }
 .button-38 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -11092,7 +11092,7 @@ a {
   margin-top: 40px;
 }
 .kingston-service-button {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -11115,7 +11115,7 @@ a {
   color: var(--black);
 }
 .italic-text-8 {
-  color: var(--sommers-red);
+  color: var(--ecovolt-green);
   font-style: normal;
   font-weight: 700;
 }
@@ -11218,7 +11218,7 @@ a {
   margin-bottom: 20px;
 }
 .button-primary-44 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -11243,8 +11243,8 @@ a {
   box-shadow: 0 4px 24px #96a3b514;
 }
 .hero-heading-right-17 {
-  border-top: 3px solid var(--sommers-red);
-  border-bottom: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
+  border-bottom: 3px solid var(--ecovolt-green);
   background-color: #0000;
   padding: 80px 30px;
   position: relative;
@@ -11259,7 +11259,7 @@ a {
   box-shadow: 0 4px 24px #96a3b514;
 }
 .button-primary-45 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -11290,7 +11290,7 @@ a {
   line-height: 62px;
 }
 .button-39 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -11309,7 +11309,7 @@ a {
   line-height: 68px;
 }
 .button-40 {
-  background-color: var(--sommers-red);
+  background-color: var(--ecovolt-green);
   letter-spacing: 2px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -11318,7 +11318,7 @@ a {
   font-size: 16px;
 }
 .container-72 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   border-bottom: 3px #c8102f;
   margin-top: 40px;
   padding-top: 60px;
@@ -11379,7 +11379,7 @@ a {
   margin-right: auto;
 }
 .features-wrapper-2 {
-  border-bottom: 3px solid var(--sommers-red);
+  border-bottom: 3px solid var(--ecovolt-green);
   justify-content: space-around;
   align-items: center;
   padding-bottom: 60px;
@@ -11608,7 +11608,7 @@ a {
   -webkit-text-stroke-color: #000;
 }
 .container-86 {
-  border-top: 3px solid var(--sommers-red);
+  border-top: 3px solid var(--ecovolt-green);
   border-bottom: 3px solid #c8102f;
 }
 .container-87 {
@@ -11656,7 +11656,7 @@ a {
     display: none;
   }
   .heading-3 {
-    border-top: 5px solid var(--sommers-red);
+    border-top: 5px solid var(--ecovolt-green);
     padding-top: 30px;
   }
   .our-generators-card-grid_container {
@@ -11839,7 +11839,7 @@ a {
     padding-left: 14px;
   }
   .container-20 {
-    border-top: 5px solid var(--sommers-red);
+    border-top: 5px solid var(--ecovolt-green);
   }
   .margin-bottom-24px-copy {
     padding-right: 20px;
@@ -13119,7 +13119,7 @@ a {
     outline: 0 #0000;
   }
   .info-cards-image {
-    color: var(--sommers-red);
+    color: var(--ecovolt-green);
   }
   .heading-16 {
     flex: 1;
@@ -13178,7 +13178,7 @@ a {
     margin-bottom: 10px;
   }
   .tab-link-tab-3 {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     color: #fff;
     border-radius: 20px;
     margin-right: 10px;
@@ -13709,7 +13709,7 @@ a {
     padding-bottom: 20px;
   }
   .button-primary-3 {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     margin-top: 40px;
     margin-bottom: 0;
     margin-left: 0;
@@ -13830,7 +13830,7 @@ a {
     padding-bottom: 0;
   }
   .button-primary8 {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     border-radius: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -14149,13 +14149,13 @@ a {
   .hero-wrapper-2 {
     border-style: none;
     border-width: 1px 1px 3px;
-    border-color: black black var(--sommers-red);
+    border-color: black black var(--ecovolt-green);
     margin-top: 60px;
     margin-bottom: 0;
     padding-bottom: 40px;
   }
   .hero-split-2 {
-    border-bottom: 3px none var(--sommers-red);
+    border-bottom: 3px none var(--ecovolt-green);
     margin-top: 0;
     margin-bottom: 0;
     margin-right: 0;
@@ -14272,7 +14272,7 @@ a {
     padding-bottom: 0;
   }
   .button-primary-12 {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     border-radius: 20px;
     margin-bottom: 10px;
     padding-top: 10px;
@@ -14292,7 +14292,7 @@ a {
     padding-bottom: 0;
   }
   .button-book-your-appt {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     text-align: center;
     border-radius: 20px;
     margin-left: 32px;
@@ -14398,7 +14398,7 @@ a {
     margin-left: 10px;
     margin-right: 10px;
   }
-  .about-sommers-button {
+  .about-ecovolt-button {
     margin-left: 60px;
   }
   .heading-111 {
@@ -14406,7 +14406,7 @@ a {
     margin-bottom: 20px;
   }
   .home-page-button-about-us {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -14427,7 +14427,7 @@ a {
     line-height: 30px;
   }
   .home-page-button-contact-us {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     letter-spacing: 2px;
     text-transform: uppercase;
     border-radius: 20px;
@@ -14439,7 +14439,7 @@ a {
     font-weight: 700;
   }
   .button-follow-us-ig {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     color: var(--white);
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -14526,7 +14526,7 @@ a {
     padding-left: 22px;
   }
   .careers-button---main-app {
-    background-color: var(--sommers-red);
+    background-color: var(--ecovolt-green);
     letter-spacing: 2px;
     text-transform: uppercase;
     border-radius: 20px;
@@ -14550,7 +14550,7 @@ a {
     padding-right: 0;
   }
   .container-27 {
-    border-bottom: 3px solid var(--sommers-red);
+    border-bottom: 3px solid var(--ecovolt-green);
     margin-top: 60px;
     margin-bottom: 0;
     padding-bottom: 60px;
@@ -14994,7 +14994,7 @@ a {
     margin-top: 80px;
   }
   .hero-without-image-25 {
-    border-bottom: 3px solid var(--sommers-red);
+    border-bottom: 3px solid var(--ecovolt-green);
   }
   .container-47 {
     max-width: none;
@@ -15002,7 +15002,7 @@ a {
   .hero-without-image-26 {
     border-style: solid none;
     border-width: 3px 1px;
-    border-color: var(--sommers-red) black;
+    border-color: var(--ecovolt-green) black;
   }
   .container-48 {
     max-width: none;
@@ -15124,8 +15124,8 @@ a {
     margin-right: 20px;
   }
   .section-28 {
-    border-top: 3px solid var(--sommers-red);
-    border-bottom: 3px solid var(--sommers-red);
+    border-top: 3px solid var(--ecovolt-green);
+    border-bottom: 3px solid var(--ecovolt-green);
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 40px;
@@ -15188,7 +15188,7 @@ a {
     margin-left: 26%;
   }
   .hero-heading-left-10 {
-    border-top: 3px solid var(--sommers-red);
+    border-top: 3px solid var(--ecovolt-green);
     padding-top: 40px;
   }
   .container-63 {

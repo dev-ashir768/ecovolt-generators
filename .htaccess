@@ -1,0 +1,30 @@
+# Turn on the URL rewriting engine
+RewriteEngine On
+
+# NEW RULE: Force the homepage to load from the /contents folder
+# This specifically targets the root URL (e.g., hello.com/)
+RewriteRule ^$ /contents/index.html [L]
+
+# RULE 1: Serve other content from the /contents subdirectory
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /contents/$1 [L]
+
+# RULE 2: Redirect URLs with .html to the clean version (SEO)
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+RewriteRule ^ %1 [R=R=301,L]
+
+# RULE 3: Internally add .html extension for clean URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/contents/%{REQUEST_URI}.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
+# DISABLE CACHING FOR SPECIFIC FILE TYPES
+<FilesMatch "\.(jpg|jpeg|png|gif|svg|mp4|mov|avi|pdf)$">
+  <IfModule mod_headers.c>
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+  </IfModule>
+</FilesMatch>
