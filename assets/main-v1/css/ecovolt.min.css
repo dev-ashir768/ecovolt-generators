@@ -6408,7 +6408,8 @@ a {
   border-radius: 20px;
   margin: 20px 220px 60px;
   padding: 10px 100px;
-  display: block;
+  /* display: block; */
+      white-space: nowrap;
 }
 .image-25 {
   text-align: center;
